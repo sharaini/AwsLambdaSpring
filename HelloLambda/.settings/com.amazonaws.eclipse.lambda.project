@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Mon Apr 03 12:16:03 EDT 2017
+lastInvokeShowLiveLog=false
+lastDeploymentFunctionName=HelloFunction
+lastDeploymentBucketName=elasticbeanstalk-us-west-2-451758019227
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/
+lastInvokeInput={\n  "input"\: "World\!"\n}
